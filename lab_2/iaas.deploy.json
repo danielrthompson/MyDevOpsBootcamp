@@ -6,7 +6,7 @@
 			"type": "array",
 			"defaultValue": [
 				"vm-wdgt-dev-1",
-				"vm-wdgt-dev-4"
+				"vm-wdgt-dev-2"
 			]
 		},
 		"webVmSize": {
